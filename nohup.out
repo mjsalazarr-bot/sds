@@ -1,0 +1,7 @@
+[: missing ‘]’
+[: missing ‘]’
+[: missing ‘]’
+cat: '/home/vboxuser/TP1/EPNro1/entrada/*.txt': No such file or directory
+mv: cannot stat '/home/vboxuser/TP1/EPNro1/entrada/*.txt': No such file or directory
+cat: '/home/vboxuser/TP1/EPNro1/entrada/*.txt': No such file or directory
+mv: cannot stat '/home/vboxuser/TP1/EPNro1/entrada/*.txt': No such file or directory
